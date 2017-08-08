@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: "Mirror multiple repositories in maven settings.xml"
 categories:
