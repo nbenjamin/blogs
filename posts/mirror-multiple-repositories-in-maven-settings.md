@@ -1,12 +1,12 @@
-+---
- +published: true
- +layout: post
- +title: "Mirror multiple repositories in maven settings.xml"
- +categories:
- +  - Maven
- +---
- +
- +Here is the configuration to enable multiple [mirrors](https://maven.apache.org/guides/mini/guide-mirror-settings.html) in maven (`settings.xml`). 
+ ---
+ published: true
+ layout: post
+ title: "Mirror multiple repositories in maven settings.xml"
+ categories:
+   - Maven
+ ---
+ 
+Here is the configuration to enable multiple [mirrors](https://maven.apache.org/guides/mini/guide-mirror-settings.html) in maven (`settings.xml`). 
 Mirrors block
 ```xml
 <mirrors>
