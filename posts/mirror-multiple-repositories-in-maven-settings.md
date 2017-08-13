@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "Mirror multiple repositories in maven settings.xml"
-categories:
-  - Maven
+title: Mirror multiple repositories in maven settings.xml
 ---
  
 Here is the configuration to enable multiple [mirrors](https://maven.apache.org/guides/mini/guide-mirror-settings.html) in maven (`settings.xml`). 
